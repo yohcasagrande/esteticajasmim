@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://esteticajasmim.vercel.app/sitemap.xml
